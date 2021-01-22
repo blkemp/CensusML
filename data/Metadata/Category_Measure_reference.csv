@@ -1,0 +1,924 @@
+Measure,Category,2016_Table
+Total_Persons,Total,G01
+Males,Sex,G01|G04A|G04B|G05|G06|G07|G09A|G09B|G09C|G09D|G09E|G09F|G13A|G13B|G13C|G14|G15|G16A|G17A|G17B|G18|G19|G20A|G21|G22A|G23A|G23B|G40|G41|G42|G43A|G43B|G46A|G47A|G47B|G48A|G48B|G49A|G49B|G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G57A|G58A|G59
+Females,Sex,G01|G04A|G04B|G05|G06|G07|G09C|G09D|G09E|G09F|G13B|G13C|G14|G15|G16A|G17A|G17B|G18|G19|G20A|G21|G22A|G23A|G23B|G40|G41|G42|G43A|G43B|G46A|G47A|G47B|G48A|G48B|G49A|G49B|G50A|G50B|G51B|G51C|G52B|G52C|G57A|G58A|G59
+Total,Total,G01|G03|G04B|G05|G06|G07|G08|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G10A|G10B|G10C|G11A|G11B|G11C|G11D|G12A|G12B|G13A|G13B|G13C|G13D|G14|G15|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G20B|G21|G22A|G22B|G23A|G23B|G24|G25|G26|G27|G28|G29|G30|G31|G32|G33|G34|G35|G36|G37|G38|G39|G40|G41|G42|G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G46A|G46B|G47A|G47B|G47C|G48A|G48B|G48C|G49A|G49B|G49C|G50A|G50B|G50C|G51A|G51B|G51C|G51D|G52A|G52B|G52C|G52D|G53A|G53B|G54A|G54B|G55A|G55B|G56A|G56B|G57A|G57B|G58A|G58B|G59
+Persons,Total,G01|G04A|G04B|G05|G06|G07|G08|G09F|G09G|G09H|G13C|G13D|G14|G15|G16A|G16B|G17B|G17C|G18|G19|G20A|G20B|G21|G22A|G22B|G23B|G25|G32|G40|G41|G42|G43B|G46A|G46B|G47B|G47C|G48B|G48C|G49B|G49C|G50B|G50C|G51C|G51D|G52C|G52D|G57B|G58B|G59
+Age_groups_0_4_years,Age,G01
+Age_groups_5_14_years,Age,G01
+Age_groups_15_19_years,Age,G01
+Age_groups_20_24_years,Age,G01
+Age_groups_25_34_years,Age,G01
+Age_groups_35_44_years,Age,G01
+Age_groups_45_54_years,Age,G01
+Age_groups_55_64_years,Age,G01
+Age_groups_65_74_years,Age,G01
+Age_groups_75_84_years,Age,G01
+Age_groups_85_years_and_over,Age,G01
+Counted_on_census_night,Measure,G01
+At_home,Location,G01
+Elsewhere_in_australia,Location,G01
+Aboriginal_and_or_torres_strait_islander,Indigenous,G01|G07
+Aboriginal,Indigenous,G01|G07|G08
+Torres_strait_islander,Indigenous,G01|G07
+Both_aboriginal_and_torres_strait_islander,Indigenous,G01
+Birthplace_australia,Birthplace,G01
+Birthplace_elsewhere,Birthplace,G01
+Language_spoken_at_home,Measure,G01
+English_only,Language,G01|G13A|G13B|G13C|G13D
+Other_language,Language,G01|G13A|G13B|G13C|G13D
+Australian_citizen,Measure,G01
+Age_of_persons_attending_an_educational_institution_0_4_years,Age,G01
+Age_of_persons_attending_an_educational_institution_5_14_years,Age,G01
+Age_of_persons_attending_an_educational_institution_15_19_years,Age,G01
+Age_of_persons_attending_an_educational_institution_20_24_years,Age,G01
+Age_of_persons_attending_an_educational_institution_25_years_and_over,Age,G01
+Highest_year_of_school_completed,Measure,G01
+Year_12_or_equivalent,Education,G01|G16A
+Year_11_or_equivalent,Education,G01|G16A
+Year_10_or_equivalent,Education,G01|G16A
+Year_9_or_equivalent,Education,G01|G16A
+Year_8_or_below,Education,G01|G16A|G16B
+Did_not_go_to_school,Education,G01|G16A|G16B
+Count_of_persons_in_occupied_private_dwellings,Measure,G01
+Count_of_persons_in_other_dwellings,Measure,G01
+Median_age_of_persons,Measure,G02
+Median_mortgage_repayment_monthly,Measure,G02
+Median_total_personal_income_weekly,Measure,G02
+Median_rent_weekly,Measure,G02
+Median_total_family_income_weekly,Measure,G02
+Average_number_of_persons_per_bedroom,Number,G02
+Median_total_household_income_weekly,Measure,G02
+Average_household_size,Measure,G02
+Counted_at_home_on_census_night,Measure,G03
+Age_0_14_years,Age,G03|G23A|G23B
+Age_15_24_years,Age,G03|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G23A|G23B|G46A|G46B|G47A|G47B
+Age_25_34_years,Age,G03|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G51A|G51B|G51C|G51D
+Age_35_44_years,Age,G03|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G51A|G51B|G51C|G51D
+Age_45_54_years,Age,G03|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G51A|G51B|G51C|G51D
+Age_55_64_years,Age,G03|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D
+Age_65_74_years,Age,G03|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D
+Age_75_84_years,Age,G03|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D
+Age_85_years_and_over,Age,G03|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G16A|G16B|G17A|G17B|G17C|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D
+Visitor_from_same_statistical_area_level_2_sa2,Visitor origination,G03
+Visitor_from_different_sa2_in,Visitor origination,G03
+New_south_wales,State,G03|G41|G42
+Victoria,State,G03|G41|G42
+Queensland,State,G03|G41|G42
+South_australia,State,G03|G41|G42
+Western_australia,State,G03|G41|G42
+Tasmania,State,G03|G41|G42
+Northern_territory,State,G03|G41|G42
+Australian_capital_territory,State,G03|G41|G42
+Other_territories,State,G03|G41|G42
+Visitor_from,Visitor origination,G03
+Total_visitors,Total,G03
+Age_years_0,Age,G04A
+Age_years_1,Age,G04A|G04B
+Age_years_2,Age,G04A
+Age_years_3,Age,G04A
+Age_years_4,Age,G04A
+Age_years_0_4_years,Age,G04A
+Age_years_5,Age,G04A|G04B
+Age_years_6,Age,G04A|G04B
+Age_years_7,Age,G04A|G04B
+Age_years_8,Age,G04A|G04B
+Age_years_9,Age,G04A|G04B
+Age_years_5_9_years,Age,G04A
+Age_years_10,Age,G04A|G04B
+Age_years_11,Age,G04A
+Age_years_12,Age,G04A
+Age_years_13,Age,G04A
+Age_years_14,Age,G04A
+Age_years_10_14_years,Age,G04A
+Age_years_15,Age,G04A
+Age_years_16,Age,G04A
+Age_years_17,Age,G04A
+Age_years_18,Age,G04A
+Age_years_19,Age,G04A
+Age_years_15_19_years,Age,G04A
+Age_years_20,Age,G04A
+Age_years_21,Age,G04A
+Age_years_22,Age,G04A
+Age_years_23,Age,G04A
+Age_years_24,Age,G04A
+Age_years_20_24_years,Age,G04A
+Age_years_25,Age,G04A
+Age_years_26,Age,G04A
+Age_years_27,Age,G04A
+Age_years_28,Age,G04A
+Age_years_29,Age,G04A
+Age_years_25_29_years,Age,G04A
+Age_years_30,Age,G04A
+Age_years_31,Age,G04A
+Age_years_32,Age,G04A
+Age_years_33,Age,G04A
+Age_years_34,Age,G04A
+Age_years_30_34_years,Age,G04A
+Age_years_35,Age,G04A
+Age_years_36,Age,G04A
+Age_years_37,Age,G04A
+Age_years_38,Age,G04A
+Age_years_39,Age,G04A
+Age_years_35_39_years,Age,G04A
+Age_years_40,Age,G04A
+Age_years_41,Age,G04A
+Age_years_42,Age,G04A
+Age_years_43,Age,G04A
+Age_years_44,Age,G04A
+Age_years_40_44_years,Age,G04A
+Age_years_45,Age,G04A
+Age_years_46,Age,G04A
+Age_years_47,Age,G04A
+Age_years_48,Age,G04A
+Age_years_49,Age,G04A
+Age_years_45_49_years,Age,G04A
+Age_years_50,Age,G04A
+Age_years_51,Age,G04A
+Age_years_52,Age,G04A
+Age_years_53,Age,G04A
+Age_years_54,Age,G04A
+Age_years_50_54_years,Age,G04A
+Age_years_55,Age,G04A|G04B
+Age_years_56,Age,G04B
+Age_years_57,Age,G04B
+Age_years_58,Age,G04B
+Age_years_59,Age,G04B
+Age_years_55_59_years,Age,G04B
+Age_years_60,Age,G04B
+Age_years_61,Age,G04B
+Age_years_62,Age,G04B
+Age_years_63,Age,G04B
+Age_years_64,Age,G04B
+Age_years_60_64_years,Age,G04B
+Age_years_65,Age,G04B
+Age_years_66,Age,G04B
+Age_years_67,Age,G04B
+Age_years_68,Age,G04B
+Age_years_69,Age,G04B
+Age_years_65_69_years,Age,G04B
+Age_years_70,Age,G04B
+Age_years_71,Age,G04B
+Age_years_72,Age,G04B
+Age_years_73,Age,G04B
+Age_years_74,Age,G04B
+Age_years_70_74_years,Age,G04B
+Age_years_75,Age,G04B
+Age_years_76,Age,G04B
+Age_years_77,Age,G04B
+Age_years_78,Age,G04B
+Age_years_79,Age,G04B
+Age_years_75_79_years,Age,G04B
+Age_years_80_84_years,Age,G04B
+Age_years_85_89_years,Age,G04B
+Age_years_90_94_years,Age,G04B
+Age_years_95_99_years,Age,G04B
+Age_years_100_years_and_over,Age,G04B
+15_19_years,Age,G01|G04A|G05|G06|G07|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G24|G43A|G43B|G51A|G51B|G51C|G51D|G57A|G57B
+Married,Marital Status,G05|G06
+Separated,Marital Status,G05
+Divorced,Marital Status,G05
+Widowed,Marital Status,G05
+Never_married,Marital Status,G05
+20_24_years,Age,G01|G04A|G05|G06|G07|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G24|G43A|G43B|G51A|G51B|G51C|G51D|G57A|G57B
+25_34_years,Age,G01|G03|G05|G06|G11A|G11B|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G51A|G51B|G51C|G51D|G57A|G57B
+35_44_years,Age,G01|G03|G05|G06|G11B|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G51A|G51B|G51C|G51D|G57A|G57B
+45_54_years,Age,G01|G03|G05|G06|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G11B|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G51A|G51B|G51C|G51D|G57A|G57B
+55_64_years,Age,G01|G03|G05|G06|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G11B|G11C|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D|G57A|G57B
+65_74_years,Age,G01|G03|G05|G06|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G11C|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D|G57A|G57B
+75_84_years,Age,G01|G03|G05|G06|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G11C|G11D|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G21|G22A|G23A|G23B|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D|G57A|G57B
+85_years_and_over,Age,G01|G03|G05|G06|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G11D|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G20B|G21|G22A|G22B|G23A|G23B|G24|G43A|G43B|G46A|G46B|G47A|G47B|G47C|G51A|G51B|G51C|G51D|G57A|G57B
+Married_in_a_registered_marriage,Marital Status,G06
+Married_in_a_de_facto_marriage,Marital Status,G06
+Not_married,Marital Status,G06
+0_4_years,Age,G01|G04A|G07|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G12A|G18|G26|G44A|G45A|G45B
+Non_indigenous,Indigenous,G07
+Indigenous_status_not_stated,Indigenous,G07
+5_9_years,Age,G04A|G07|G12A|G26|G44A|G44B|G45A|G45B
+10_14_years,Age,G04A|G07
+25_29_years,Age,G04A|G07|G24
+30_34_years,Age,G04A|G07|G24
+35_39_years,Age,G04A|G07|G24
+40_44_years,Age,G04A|G07|G24
+45_49_years,Age,G04A|G07|G24
+50_54_years,Age,G04A|G07|G24
+55_59_years,Age,G04B|G07|G24
+60_64_years,Age,G04B|G07|G24
+65_years_and_over,Age,G07
+Australian,Ancestry,G08
+Both_parents_born_overseas,Heritage,G08
+Father_only_born_overseas,Heritage,G08
+Mother_only_born_overseas,Heritage,G08
+Both_parents_born_in_australia,Heritage,G08
+Birthplace_not_stated,Heritage,G08
+Total_responses,Total,G08
+Chinese,Ancestry,G08
+Croatian,Ancestry,G08
+Dutch,Ancestry,G08
+English,Ancestry,G08
+Filipino,Ancestry,G08
+French,Ancestry,G08
+German,Ancestry,G08
+Greek,Ancestry,G08
+Hungarian,Ancestry,G08
+Indian,Ancestry,G08
+Irish,Ancestry,G08
+Italian,Ancestry,G08
+Korean,Ancestry,G08
+Lebanese,Ancestry,G08
+Macedonian,Ancestry,G08
+Maltese,Ancestry,G08
+Maori,Ancestry,G08
+New_zealander,Ancestry,G08
+Polish,Ancestry,G08
+Russian,Ancestry,G08
+Scottish,Ancestry,G08
+Serbian,Ancestry,G08
+South_african,Ancestry,G08
+Spanish,Ancestry,G08
+Sri_lankan,Ancestry,G08
+Turkish,Ancestry,G08
+Vietnamese,Ancestry,G08
+Welsh,Ancestry,G08
+Other,Ancestry,G08
+Ancestry_not_stated,Ancestry,G08
+Afghanistan,Place of Birth,G09A|G09C|G09F
+Age_0_4_years,Age,G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H
+Age_5_14_years,Age,G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H
+Age_25_44_years,Age,G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H
+Australia,Place of Birth,G09A|G09C|G09F
+Bangladesh,Place of Birth,G09A|G09C|G09F
+Bosnia_and_herzegovina,Place of Birth,G09A|G09C|G09F
+Cambodia,Place of Birth,G09A|G09C|G09F
+Canada,Place of Birth,G09A|G09C|G09F|G10A
+Chile,Place of Birth,G09A|G09C|G09F
+China_excludes_sars_and_taiwan,Place of Birth,G09A|G09D|G09F
+Croatia,Place of Birth,G09A|G09D|G09F|G10A
+Egypt,Place of Birth,G09A|G09D|G09F|G10A
+England,Place of Birth,G09A|G09D|G09F
+Fiji,Place of Birth,G09A|G09D|G09F|G10A
+France,Place of Birth,G09A|G09D|G09F
+Germany,Place of Birth,G09A|G09D|G09F|G10A
+Greece,Place of Birth,G09A|G09D|G09G|G10A
+Hong_kong_sar_of_china,Place of Birth,G09A|G09D|G09G|G10A
+India,Place of Birth,G09A|G09D|G09G|G10A
+Indonesia,Place of Birth,G09A|G09D|G09G|G10A
+Iran,Place of Birth,G09A|G09D|G09G|G10A
+Iraq,Place of Birth,G09A|G09D|G09G|G10A
+Ireland,Place of Birth,G09B|G09D|G09E|G09G|G10A|G10B
+Italy,Place of Birth,G09B|G09D|G09G|G10B
+Japan,Place of Birth,G09B|G09D|G09G|G10B
+Korea_republic_of_south,Place of Birth,G09B|G09D|G09G|G10B
+Lebanon,Place of Birth,G09B|G09D|G09G|G10B
+Malaysia,Place of Birth,G09B|G09D|G09G|G10B
+Malta,Place of Birth,G09B|G09D|G09G|G10B
+Mauritius,Place of Birth,G09B|G09E|G09G
+Myanmar,Place of Birth,G09B|G09E|G09G
+Nepal,Place of Birth,G09B|G09E|G09G
+Netherlands,Place of Birth,G09B|G09E|G09G|G10B
+New_zealand,Place of Birth,G09B|G09E|G09G|G10B
+Northern_ireland,Place of Birth,G09B|G09E|G09G
+Pakistan,Place of Birth,G09B|G09E|G09G|G10B
+Papua_new_guinea,Place of Birth,G09B|G09E|G09H
+Philippines,Place of Birth,G09B|G09E|G09H|G10B
+Poland,Place of Birth,G09B|G09E|G09H|G10B
+Scotland,Place of Birth,G09B|G09E|G09H
+Singapore,Place of Birth,G09B|G09E|G09H|G10B
+South_africa,Place of Birth,G09B|G09E|G09H|G10C
+South_eastern_europe_nfd,Place of Birth,G09C|G09E|G09H
+Sri_lanka,Place of Birth,G09C|G09E|G09H|G10C
+Taiwan,Place of Birth,G09A|G09C|G09D|G09E|G09F|G09H|G10A
+Thailand,Place of Birth,G09C|G09E|G09H|G10C
+The_former_yugoslav_republic_of_macedonia,Place of Birth,G09C|G09E|G09H|G10C
+Turkey,Place of Birth,G09C|G09E|G09H|G10C
+United_states_of_america,Place of Birth,G09C|G09E|G09H|G10C
+Vietnam,Place of Birth,G09C|G09F|G09H|G10C
+Wales,Place of Birth,G09C|G09F|G09H
+Zimbabwe,Place of Birth,G09C|G09F|G09H|G10C
+Born_elsewhere,Place of Birth,G09C|G09F|G09H|G10C
+Country_of_birth_not_stated,Place of Birth,G09C|G09F|G09H
+Year_of_arrival_before_1946,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_1946_1955,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_1956_1965,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_1966_1975,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_1976_1985,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_1986_1995,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_1996_2005,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2006_2010,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2011,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2012,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2013,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2014,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2015,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_2016,Year of Arrival,G10A|G10B|G10C
+Year_of_arrival_not_stated,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+China_excl_sars_and_taiwan,Place of Birth,G10A
+United_kingdom_channel_islands_and_isle_of_man,Place of Birth,G10C
+Total_year_of_arrival_not_stated,Total,G10C|G11A|G11B|G11C|G11D
+Aged_0_14_years,Age,G11A
+Speaks_english_only_before_2000,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2000_2005,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2006_2010,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2011,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2012,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2013,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2014,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2015,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only_2016,Proficiency in Spoken English,G11A|G11B|G11C|G11D
+Speaks_english_only,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B|G13B|G13C|G13D
+Speaks_other_language_and_speaks_english,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B|G13B|G13C|G13D
+Very_well_or_well,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B|G13A|G13B|G13C|G13D
+before_2000,Year of Arrival,G11A|G11B|G11C|G11D
+2000_2005,Year of Arrival,G11A|G11B|G11C|G11D
+2006_2010,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+2011,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+2012,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+2013,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+2014,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+2015,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+2016,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+year_of_arrival_not_stated,Year of Arrival,G10A|G10B|G10C|G11A|G11B|G11C|G11D
+total,Total,G01|G03|G04B|G05|G06|G07|G08|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G10A|G10B|G10C|G11A|G11B|G11C|G11D|G12A|G12B|G13A|G13B|G13C|G13D|G14|G15|G16A|G16B|G17A|G17B|G17C|G18|G19|G20A|G20B|G21|G22A|G22B|G23A|G23B|G24|G25|G26|G27|G28|G29|G30|G31|G32|G33|G34|G35|G36|G37|G38|G39|G40|G41|G42|G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G46A|G46B|G47A|G47B|G47C|G48A|G48B|G48C|G49A|G49B|G49C|G50A|G50B|G50C|G51A|G51B|G51C|G51D|G52A|G52B|G52C|G52D|G53A|G53B|G54A|G54B|G55A|G55B|G56A|G56B|G57A|G57B|G58A|G58B|G59
+Not_well_or_not_at_all,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B|G13A|G13B|G13C|G13D
+Proficiency_in_english_not_stated,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B
+Total_total,Total,G11A|G11B|G11C|G11D
+Language_and_proficiency_in,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B
+English_not_stated,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B
+Aged_15_24_years,Age,G11A|G15|G23A|G23B
+Aged_25_34_years,Age,G11A|G11B
+Aged_35_44_years,Age,G11B
+Aged_45_54_years,Age,G11B
+Aged_55_64_years,Age,G11B|G11C
+Aged_65_74_years,Age,G11C
+Aged_75_84_years,Age,G11C|G11D
+Aged_85_years_and_over,Age,G11D
+Dependent_children_aged_0_4_years,Age,G12A|G44A
+Female_parent_speaks_english_only,Language of mother,G12A|G12B
+Male_parent_Speaks_english_only,Language of father,G12A|G12B
+Male_Parent_speaks_other_language_and_speaks_english,Language of father,G12A|G12B
+Male_parent_language_and_proficiency_in_english_not_stated,Language of father,G12A|G12B
+Female_parent_speaks_other_language_and_speaks_english,Language of mother,G12A|G12B
+Male_parent_speaks_english_only,Language of father,G12A|G12B
+Male_parent_speaks_other_language_and_speaks_english,Language of father,G12A|G12B
+Male_parent_total,Total,G12A|G12B|G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_speaks_other_language_and_speaks_english_total,Total,G12A|G12B
+Total_male_parent,Proficiency in Spoken English,G12A|G12B
+Language_and_proficiency_in_english_not_stated,Language of Parents,G12A|G12B
+Dependent_children_aged_0_4_years_female_parent,Age,G12A
+English_not_stated_male_parent,Proficiency in Spoken English,G12A|G12B
+Dependent_children_aged_0_4_years_female_parent_total,Age,G12A
+Female_parent_total,Total,G12A|G12B|G44A|G44B|G44C|G44D|G44E|G44F
+Dependent_children_aged_5_9_years,Age,G12A|G44A|G44B
+Dependent_children_aged_5_9_years_female_parent,Age,G12A
+Dependent_children_aged_5_9_years_female_parent_total,Age,G12A
+Dependent_children_aged_10_12_years,Age,G12A|G44B|G44C
+Dependent_children_aged_10_12_years_female_parent,Age,G12A
+Dependent_children_aged_10_12_years_female_parent_total,Age,G12A
+Dependent_children_aged_13_14_years,Age,G12A|G44C
+Dependent_children_aged_13_14_years_female_parent,Age,G12A
+Dependent_children_aged_13_14_years_female_parent_total,Age,G12A
+Dependent_children_aged_15_17_years,Age,G12A|G12B|G44C|G44D
+Dependent_children_aged_15_17_years_female_parent,Age,G12B
+Dependent_children_aged_15_17_years_female_parent_total,Age,G12B
+Dependent_children_aged_18_20_years,Age,G12B|G44D|G44E
+Dependent_children_aged_18_20_years_female_parent,Age,G12B
+Dependent_children_aged_18_20_years_female_parent_total,Age,G12B
+Dependent_children_aged_21_24_years,Age,G12B|G44E|G44F
+Dependent_children_aged_21_24_years_female_parent,Age,G12B
+Dependent_children_aged_21_24_years_female_parent_total,Age,G12B
+Total_dependent_children,Total,G12B
+Total_dependent_children_female_parent,Total,G12B
+Total_dependent_children_female_parent_total,Total,G12B
+Speaks_english_only,Language Spoken at Home,G13A|G13B|G13C
+Speaks_english_only,Language,G13A|G13B|G13C|G13D
+Speaks_other_language_and_speaks_english,Language,G13A|G13B|G13C|G13D
+Not_stated,Language,G13A|G13B|G13C|G13D
+Speaks_other_language,Language Spoken at Home,G13A|G13B|G13C|G13D
+Afrikaans,Language Spoken at Home,G13A|G13B|G13C
+Arabic,Language Spoken at Home,G13A|G13B|G13C
+Australian_indigenous_languages,Language Spoken at Home,G13A|G13B|G13C
+Chinese_languages_cantonese,Language Spoken at Home,G13A|G13B|G13C
+Chinese_languages_mandarin,Language Spoken at Home,G13A|G13B|G13C
+Chinese_languages_other,Language Spoken at Home,G13A|G13B|G13C
+Chinese_languages_total,Language Spoken at Home,G13A|G13B|G13C
+Croatian,Language Spoken at Home,G13A|G13B|G13C
+Dutch,Language Spoken at Home,G13A|G13B|G13C
+French,Language Spoken at Home,G13A|G13B|G13C
+German,Language Spoken at Home,G13A|G13B|G13C
+Greek,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_bengali,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_hindi,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_punjabi,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_sinhalese,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_urdu,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_other,Language Spoken at Home,G13A|G13B|G13D
+Indo_aryan_languages_total,Language Spoken at Home,G13A|G13B|G13D
+Italian,Language Spoken at Home,G13A|G13B|G13D
+Japanese,Language Spoken at Home,G13A|G13B|G13D
+Korean,Language Spoken at Home,G13A|G13B|G13C|G13D
+Macedonian,Language Spoken at Home,G13A|G13C|G13D
+Maltese,Language Spoken at Home,G13A|G13C|G13D
+Persian_excluding_dari,Language Spoken at Home,G13A|G13C|G13D
+Polish,Language Spoken at Home,G13A|G13C|G13D
+Russian,Language Spoken at Home,G13A|G13C|G13D
+Samoan,Language Spoken at Home,G13A|G13C|G13D
+Serbian,Language Spoken at Home,G13A|G13C|G13D
+Southeast_asian_austronesian_languages_filipino,Language Spoken at Home,G13A|G13C|G13D
+Southeast_asian_austronesian_languages_indonesian,Language Spoken at Home,G13A|G13C|G13D
+Southeast_asian_austronesian_languages_tagalog,Language Spoken at Home,G13A|G13C|G13D
+Southeast_asian_austronesian_languages_other,Language Spoken at Home,G13A|G13B|G13C|G13D
+Southeast_asian_austronesian_languages_total,Language Spoken at Home,G13B|G13C|G13D
+Spanish,Language Spoken at Home,G13B|G13C|G13D
+Tamil,Language Spoken at Home,G13B|G13C|G13D
+Thai,Language Spoken at Home,G13B|G13C|G13D
+Turkish,Language Spoken at Home,G13B|G13C|G13D
+Vietnamese,Language Spoken at Home,G13B|G13C|G13D
+Other,Language Spoken at Home,G13A|G13B|G13C|G13D
+Language_spoken_at_home_not_stated,Language Spoken at Home,G13B|G13C|G13D
+Not_stated,Proficiency in Spoken English,G11A|G11B|G11C|G11D|G12A|G12B|G13B|G13C|G13D
+Buddhism,Religion,G14
+Christianity_anglican,Religious Sect,G14
+Christianity_assyrian_apostolic,Religious Sect,G14
+Christianity_baptist,Religious Sect,G14
+Christianity_brethren,Religious Sect,G14
+Christianity_catholic,Religious Sect,G14
+Christianity_churches_of_christ,Religious Sect,G14
+Christianity_eastern_orthodox,Religious Sect,G14
+Christianity_jehovahs_witnesses,Religious Sect,G14
+Christianity_latter_day_saints,Religious Sect,G14
+Christianity_lutheran,Religious Sect,G14
+Christianity_oriental_orthodox,Religious Sect,G14
+Christianity_other_protestant,Religious Sect,G14
+Christianity_pentecostal,Religious Sect,G14
+Christianity_presbyterian_and_reformed,Religious Sect,G14
+Christianity_salvation_army,Religious Sect,G14
+Christianity_seventh_day_adventist,Religious Sect,G14
+Christianity_uniting_church,Religious Sect,G14
+Christianity_christianity_nfd,Religious Sect,G14
+Christianity_other_christian,Religious Sect,G14
+Christianity_total,Religion,G14
+Hinduism,Religion,G14
+Islam,Religion,G14
+Judaism,Religion,G14
+Other_religions_australian_aboriginal_traditional_religions,Religious Sect,G14
+Other_religions_sikhism,Religious Sect,G14
+Other_religions_other_religious_groups,Religious Sect,G14
+Other_religions_total,Religion,G14
+Secular_beliefs_and_other_spiritual_beliefs_and_no_religious_affiliation_no_religion_so_described,Religious Sect,G14
+Secular_beliefs_and_other_spiritual_beliefs_and_no_religious_affiliation_secular_beliefs,Religious Sect,G14
+Secular_beliefs_and_other_spiritual_beliefs_and_no_religious_affiliation_other_spiritual_beliefs,Religious Sect,G14
+Secular_beliefs_and_other_spiritual_beliefs_and_no_religious_affiliation_total,Religion,G14
+Religious_affiliation,Religion,G14
+Not_stated,Place of Residence class,G14|G41|G42
+Pre_school,Education,G15
+Infants_primary,Education,G15
+Government,School type,G15
+Catholic,School type,G15
+Other_non_government,School type,G15
+Secondary,Education,G15
+Technical_or_further_educational_institution,Education,G15
+Full_time_student,Educational status,G15
+Aged_25_years_and_over,Age,G15
+Part_time_student,Educational status,G15
+Full_part_time_student_status_not_stated,Educational status,G15
+University_or_other_tertiary_institution,Education,G15
+Other_type_of_educational_institution,Education,G15
+Type_of_educational_institution_not_stated,Education,G15
+Age_15_19_years,Age,G16A|G16B|G17A|G17B|G17C|G43A|G43B|G51A|G51B|G51C|G51D
+Age_20_24_years,Age,G16A|G16B|G17A|G17B|G17C|G43A|G43B|G51A|G51B|G51C|G51D
+Highest_year_of_school_not_stated,Education,G16A|G16B
+negative_nil_income,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+1_149,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+150_299,Income,G17A|G17B|G28|G29|G35|G54A|G55A|G56A
+300_399,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+400_499,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+500_649,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+650_799,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+800_999,Income,G17A|G17B|G28|G29|G34|G35|G54A|G55A|G56A
+1000_1249,Income,G17A|G17B|G17C|G28|G29|G54A|G55A|G56A
+1250_1499,Income,G17A|G17B|G17C|G28|G29|G54A|G55A|G56A
+1500_1749,Income,G17A|G17B|G17C|G28|G29|G54A|G55A|G56A
+1750_1999,Income,G17A|G17B|G17C|G28|G29|G54A|G55A|G56A
+2000_2999_more,Income,G17A|G17B|G17C
+3000_or_more,Income,G17A|G17B|G17C
+personal_income_not_stated,Income,G17A|G17B|G17C
+Personal_income_not_stated,Income,G17A|G17B|G17C
+Has_need_for_assistance,Disability status,G18
+Does_not_have_need_for_assistance,Disability status,G18
+Need_for_assistance_not_stated,Disability status,G18
+5_14_years,Age,G01|G09A|G09B|G09C|G09D|G09E|G09F|G09G|G09H|G18
+Volunteer,Volunteering status,G19
+Not_a_volunteer,Volunteering status,G19
+Voluntary_work_not_stated,Volunteering status,G19
+Did_unpaid_domestic_work,Unpaid status,G20A|G20B
+Less_than_5_hours,Number of Hours,G20A|G20B
+Did_unpaid_domestic_work_5_14_hours,Unpaid status,G20A|G20B
+Did_unpaid_domestic_work_15_29_hours,Unpaid status,G20A|G20B
+Did_unpaid_domestic_work_30_hours_or_more,Unpaid status,G20A|G20B
+Did_no_unpaid_domestic_work,Unpaid status,G20A|G20B
+Unpaid_domestic_work_not_stated,Unpaid status,G20A|G20B
+Provided_unpaid_assistance,Unpaid status,G21
+No_unpaid_assistance_provided,Unpaid status,G21
+Unpaid_assistance_not_stated,Unpaid status,G21
+Cared_for_own_child_children_only,Unpaid status,G22A|G22B
+Cared_for_other_child_children_only,Unpaid status,G22A|G22B
+Cared_for_own_child_children_and_other_child_children,Unpaid status,G22A|G22B
+Cared_for,Unpaid status,G22A|G22B
+Did_not_provide_child_care,Unpaid status,G22A|G22B
+Unpaid_child_care_not_stated,Unpaid status,G22A|G22B
+Husband_in_a_registered_marriage,Relationship in Household,G23A
+Partner_in_de_facto_marriage,Relationship in Household,G23A|G23B
+Lone_parent,Relationship in Household,G23A|G23B|G45A
+Child_under_15,Relationship in Household,G23A|G23B
+Dependent_student,Relationship in Household,G23A|G23B
+Non_dependent_child,Relationship in Household,G23A|G23B
+Other_related_individual,Relationship in Household,G23A|G23B
+Unrelated_individual_living_in_family_household,Relationship in Household,G23A|G23B
+Group_household_member,Relationship in Household,G23A|G23B
+Lone_person,Relationship in Household,G23A|G23B
+Visitor_from_within_australia,Relationship in Household,G23A|G23B
+Wife_in_a_registered_marriage,Relationship in Household,G23A|G23B
+Husband_or_wife_in_a_registered_marriage,Relationship in Household,G23B
+Age_group_of_parent_15_19_years,Age,G24
+Number_of_children_ever_born,Number,G24
+No_children,Number of children,G24
+One_child,Number of children,G24
+Two_children,Number of children,G24
+Three_children,Number of children,G24
+Four_children,Number of children,G24
+Five_children,Number of children,G24
+Six_or_more_children,Number of children,G24
+Not_stated,Number of children,G24
+Age_group_of_parent_20_24_years,Age,G24
+Age_group_of_parent_25_29_years,Age,G24
+Age_group_of_parent_30_34_years,Age,G24
+Age_group_of_parent_35_39_years,Age,G24
+Age_group_of_parent_40_44_years,Age,G24
+Age_group_of_parent_45_49_years,Age,G24
+Age_group_of_parent_50_54_years,Age,G24
+Age_group_of_parent_55_59_years,Age,G24
+Age_group_of_parent_60_64_years,Age,G24
+Age_group_of_parent_65_69_years,Age,G24
+Age_group_of_parent_70_74_years,Age,G24
+Age_group_of_parent_75_79_years,Age,G24
+Age_group_of_parent_80_84_years,Age,G24
+Age_group_of_parent_85_years_and_over,Age,G24
+Couple_family_with_no_children,Family number parents + children,G25
+Families,Family Composition,G25|G27|G44F
+Couple_family_with_children_under_15_and_dependent_students_and_non_dependent_children,Family type + Child age,G25
+Couple_family_with_children_under_15_and_dependent_students_and_no_non_dependent_children,Family type + Child age,G25
+Couple_family_with_children_under_15_and_no_dependent_students_and_non_dependent_children,Family type + Child age,G25
+Couple_family_with_children_under_15_and_no_dependent_students_and_no_non_dependent_children,Family type + Child age,G25
+Couple_family_with_children_under_15_and_total,Family with children type,G25
+Couple_family_with_no_children_under_15_and_dependent_students_and_non_dependent_children,Family type + Child age,G25
+Couple_family_with_no_children_under_15_and_dependent_students_and_no_non_dependent_children,Family type + Child age,G25
+Couple_family_with_no_children_under_15_and_no_dependent_students_and_non_dependent_children,Family type + Child age,G25
+Couple_family_with_no_children_under_15_and_total,Family with children type,G25
+Couple_family_with,Family number parents + children,G25|G35
+One_parent_family_with_children_under_15_and_dependent_students_and_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_children_under_15_and_dependent_students_and_no_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_children_under_15_and_no_dependent_students_and_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_children_under_15_and_no_dependent_students_and_no_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_children_under_15_and_total,Family with children type,G25
+One_parent_family_with_no_children_under_15_and_dependent_students_and_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_no_children_under_15_and_dependent_students_and_no_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_no_children_under_15_and_no_dependent_students_and_non_dependent_children,Family type + Child age,G25
+One_parent_family_with_no_children_under_15_and_total,Family with children type,G25
+One_parent_family_with,Family number parents + children,G25|G35
+Other_family,Family Composition,G25|G28|G35|G39
+Couple_family_with_children,Family Composition,G26|G28|G39
+Both_parents_born_overseas,Country of Birth of Parents,G26
+Age_of_dependent_children_0_4_years,Age,G26|G45A|G45B
+Age_of_dependent_children_5_9_years,Age,G26|G45A|G45B
+Age_of_dependent_children_10_12_years,Age,G26|G45A|G45B
+Age_of_dependent_children_13_14_years,Age,G26|G45A|G45B
+Age_of_dependent_children_15_17_years,Age,G26|G45A|G45B
+Age_of_dependent_children_18_20_years,Age,G26|G45A|G45B
+Age_of_dependent_children_21_24_years,Age,G26|G45A|G45B
+Father_only_born_overseas,Country of Birth of Parents,G26
+Mother_only_born_overseas,Country of Birth of Parents,G26
+Both_parents_born_in_australia,Country of Birth of Parents,G26
+Birthplace_not_stated,Country of Birth of Parents,G26
+One_parent_family,Family Composition,G26|G28|G39
+Intact_family_with_no_other_children_present,Family Composition,G27
+Step_family_with_no_other_children_present,Family Composition,G27
+Blended_family_with_no_other_children_present,Family Composition,G27
+Intact_family_with_other_children_present,Family Composition,G27
+Step_family_with_other_children_present,Family Composition,G27
+Blended_family_with_other_children_present,Family Composition,G27
+Other_couple_family_with_other_children_only,Family Composition,G27
+Negative_nil_income,Income,G17A|G17B|G28|G29|G54A|G55A|G56A
+Couple_family_with_no_children,Family Composition,G28|G35|G39
+2000_2499,Income,G28|G29|G54A|G55A|G56A
+2500_2999,Income,G28|G29|G54A|G55A|G56A
+3000_3499,Income,G28|G29|G54A|G55A|G56A
+3500_3999,Income,G28|G29|G54A|G55A|G56A
+4000_or_more,Income,G28|G29|G54A|G54B|G55A|G55B|G56A
+Partial_income_stated,Income,G28|G29|G54B|G55B|G56A
+All_incomes_not_stated,Income,G28|G29|G54B|G55B|G56A|G56B
+Family_households,Household type,G29|G31
+Non_family_households,Household type,G29|G31
+Number_of_motor_vehicles_per_dwelling,Number,G30
+No_motor_vehicles,Number,G30
+Dwellings,Total,G30|G32
+One_motor_vehicle,Number,G30
+Two_motor_vehicles,Number,G30
+Three_motor_vehicles,Number,G30
+Four_or_more_motor_vehicles,Number,G30
+Number_of_motor_vehicles_not_stated,Number,G30
+Number_of_persons_usually_resident,Number,G31
+One,Number,G30|G31|G32|G38|G39
+Two,Number,G30|G31|G32|G38|G39
+Three,Number,G30|G31|G32|G38|G39
+Four,Number,G30|G31|G32|G38|G39
+Five,Number,G31
+Six_or_more,Number,G31
+Occupied_private_dwellings,Building occupation status,G32
+Separate_house,Building type,G32|G33|G34|G37|G38|G39
+Semi_detached_row_or_terrace_house_townhouse_etc_with,Building type,G32|G38|G39
+One_storey,Number,G32|G38|G39
+Two_or_more_storeys,Number,G32|G38|G39
+Flat_or_apartment,Building type,G32|G33|G34|G37|G38|G39
+In_a_one_or_two_storey_block,Number,G32|G38|G39
+In_a_three_storey_block,Number,G32|G38|G39
+In_a_four_or_more_storey_block,Number,G32|G38|G39
+Attached_to_a_house,Number,G32|G38|G39
+Other_dwelling,Building type,G32|G33|G34|G37|G38|G39
+Caravan,Household Composition,G32|G39
+Cabin_houseboat,Household Composition,G32|G39
+Improvised_home_tent_sleepers_out,Household Composition,G32|G39
+House_or_flat_attached_to_a_shop_office_etc,Household Composition,G32|G39
+Dwelling_structure_not_stated,Building type,G32|G33|G38|G39
+Total_occupied_private_dwellings,Total,G32
+Unoccupied_private_dwellings,Building occupation status,G32
+Total_private_dwellings,Total,G32
+Owned_outright,Ownership,G33
+Dwelling_structure,Measure,G33|G34|G37
+Semi_detached_row_or_terrace_house_townhouse_etc,Building type,G32|G33|G34|G37|G38|G39
+Owned_with_a_mortgage,Ownership,G33
+Rented,Ownership,G33
+Real_estate_agent,Rental authority,G33|G36
+State_or_territory_housing_authority,Rental authority,G33|G36
+Person_not_in_same_household,Rental authority,G33|G36
+Housing_co_operative_community_church_group,Rental authority,G33|G36
+Other_landlord_type,Rental authority,G33|G36
+Landlord_type_not_stated,Rental authority,G33
+Other_tenure_type,Ownership,G33
+Tenure_type_not_stated,Ownership,G33
+0_299,Mortgage,G34|G35
+Not_stated,Building type,G32|G33|G34|G37|G38|G39
+300_449,Mortgage,G34|G35
+450_599,Mortgage,G34|G35
+600_799,Mortgage,G34|G35
+1000_1399,Mortgage,G34
+1400_1799,Mortgage,G34
+1800_2399,Mortgage,G34
+2400_2999,Mortgage,G34
+3000_3999,Mortgage,G34|G35
+4000_and_over,Mortgage,G34
+Mortgage_repayment_not_stated,Measure,G34|G35
+0_149,Mortgage,G35
+Couple_family_with_children_under_15,Family type + Child age,G25|G35
+No_children_under_15,Age,G35
+One_parent_family_with_children_under_15,Family type + Child age,G25|G35
+1000_1199,Mortgage,G35
+1200_1399,Mortgage,G35
+1400_1599,Mortgage,G35
+1600_1799,Mortgage,G35
+1800_1999,Mortgage,G35
+2000_2199,Mortgage,G35
+2200_2399,Mortgage,G35
+2400_2599,Mortgage,G35
+2600_2999,Mortgage,G35
+4000_4999,Mortgage,G35
+5000_and_over,Mortgage,G35
+0_74,Rent,G36
+Landlord_type,Measure,G36
+Not_stated,Rental authority,G33|G36
+75_99,Rent,G36
+100_149,Rent,G36
+150_199,Rent,G36
+200_224,Rent,G36
+225_274,Rent,G36
+275_349,Rent,G36
+350_449,Rent,G36
+450_549,Rent,G36
+550_649,Rent,G36
+650_and_749,Rent,G36
+750_and_849,Rent,G36
+850_and_949,Rent,G36
+950_and_over,Rent,G36
+Rent_not_stated,Rental cost,G36
+Internet_accessed_from_dwelling,Internet status,G37
+Internet_not_accessed_from_dwelling,Internet status,G37
+Not_stated,Internet status,G37
+Number_of_bedrooms,Number,G38
+None_includes_bedsitters,Number of Bedrooms,G38
+One_bedroom,Number of Bedrooms,G38
+Two_bedrooms,Number of Bedrooms,G38
+Three_bedrooms,Number of Bedrooms,G38
+Four_bedrooms,Number of Bedrooms,G38
+Five_bedrooms,Number of Bedrooms,G38
+Six_or_more_bedrooms,Number of Bedrooms,G38
+Not_stated,Number of Bedrooms,G38
+Family_households,Household Composition,G39
+Lone_person_household,Household Composition,G39
+Group_household,Household Composition,G39
+aged_15_years_and_over,Age,G40
+Labour_force_status,Measure,G40
+Employed_worked_full_time,Labour Force Status,G40
+Employed_worked_part_time,Labour Force Status,G40
+Employed_away_from_work,Labour Force Status,G40|G43A|G43B
+Unemployed_looking_for_work,Labour Force Status,G40
+Total_labour_force,Labour Force Status,G40|G43A|G43B|G56A|G56B
+Not_in_the_labour_force,Labour Force Status,G40|G43A|G43B|G45A|G45B|G56A|G56B
+Percent_unemployment,Measure,G40
+Percent_labour_force_participation,Measure,G40
+Percent_employment_to_population,Measure,G40
+Non_school_qualifications,Measure,G40
+Postgraduate_degree_level,Education,G40|G46A|G46B|G49A|G49B|G50A|G50B|G50C
+Graduate_diploma_and_graduate_certificate_level,Education,G40|G46A|G46B|G49A|G49B|G50A|G50B|G50C
+Bachelor_degree_level,Education,G40|G46A|G46B|G49A|G49B|G50A|G50B|G50C
+Advanced_diploma_and_diploma_level,Education,G40|G46A|G46B|G49A|G49B|G49C|G50A|G50B|G50C
+Certificate_level_certificate_iii_and_iv_level,Education,G40|G46A|G46B|G49A|G49B|G49C
+Certificate_level_certificate_i_and_ii_level,Education,G40|G46A|G46B|G49A|G49B|G49C
+Certificate_level_certificate_level_nfd,Education,G40|G46A|G46B|G49A|G49B|G49C
+Certificate_level,Education,G40|G46A|G46B|G49A|G49B|G49C|G50A|G50B|G50C
+Migration,Measure,G40
+Lived_at_same_address_1_year_ago,Migration,G40
+Lived_at_different_address_1_year_ago,Migration,G40
+Lived_at_same_address_5_years_ago,Migration,G40
+Lived_at_different_address_5_years_ago,Migration,G40
+Same_usual_address_1_year_ago_as_in_2016,Place of Residence class,G41
+Different_usual_address_1_year_ago,Place of Residence class,G41
+Same_statistical_area_level_2_sa2,Place of Usual Residence,G41|G42
+Different_sa2_in,Place of Usual Residence,G41|G42
+Overseas,Place of Usual Residence,G41|G42
+Same_usual_address_5_years_ago_as_in_2016,Place of Residence class,G42
+Different_usual_address_5_years_ago,Place of Residence class,G42
+Employed_worked,Labour Force Status,G40|G43A|G43B
+Full_time,Labour Force Status,G40|G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Part_time,Labour Force Status,G40|G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Hours_worked_not_stated,Hours worked,G43A|G43B|G45A|G45B|G52A|G52B|G52C|G52D|G58A|G58B
+Total_employed,Labour Force Status,G43A|G43B
+Unemployed_looking_for,Labour Force Status,G40|G43A|G43B|G56A|G56B
+Full_time_work,Labour Force Status,G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G56A|G56B
+Part_time_work,Labour Force Status,G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G56A|G56B
+Total_unemployed,Labour Force Status,G43A|G43B
+Labour_force_status_not_stated,Labour Force Status,G43A|G43B|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Female_parent_employed_worked,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_employed,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Worked_full_time,Labour Force Status,G40|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G54A|G54B|G55A|G55B|G56A|G56B
+Worked_part_time,Labour Force Status,G40|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Away_from_work,Labour Force Status,G40|G43A|G43B|G44A|G44B|G44C|G44D|G44E|G44F|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Hours_worked_not_stated,Labour Force Status,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_unemployed_looking_for,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_total_labour_force,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_not_in_the_labour_force,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_labour_force_status_not_stated,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_employed_away_from_work,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_hours_worked_not_stated,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_total_employed,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_unemployed,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Looking_for_full_time_work,Unemployed Status,G44A|G44B|G44C|G44D|G44E|G44F
+Looking_for_part_time_work,Unemployed Status,G44A|G44B|G44C|G44D|G44E|G44F
+Looking_for,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Male_parent_total,Labour Force Status of Male Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Labour_force,Total,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_unemployed_looking_for,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_total_unemployed,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_total_labour_force,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_not_in_the_labour_force,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_labour_force_status_not_stated,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Female_parent_total_total,Labour Force Status of Female Parent,G44A|G44B|G44C|G44D|G44E|G44F
+Dependent_children_in_couple_families,Family Composition,G44F
+Male,Sex,G01|G04A|G04B|G05|G06|G07|G09A|G09B|G09C|G09D|G09E|G09F|G13A|G13B|G13C|G14|G15|G16A|G17A|G17B|G18|G19|G20A|G21|G22A|G23A|G23B|G40|G41|G42|G43A|G43B|G45A|G46A|G47A|G47B|G48A|G48B|G49A|G49B|G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G57A|G58A|G59
+Employed,Labour Force Status,G40|G43A|G43B|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Unemployed,Labour Force Status,G40|G43A|G43B|G45A|G45B|G56A|G56B
+Looking_for_full_time_work,Labour Force Status,G45A|G45B
+Looking_for_part_time_work,Labour Force Status,G45A|G45B
+Labour_force,Labour Force Status,G40|G43A|G43B|G45A|G45B|G54A|G54B|G55A|G55B|G56A|G56B
+Female,Sex,G01|G04A|G04B|G05|G06|G07|G09C|G09D|G09E|G09F|G13B|G13C|G14|G15|G16A|G17A|G17B|G18|G19|G20A|G21|G22A|G23A|G23B|G40|G41|G42|G43A|G43B|G45A|G46A|G47A|G47B|G48A|G48B|G49A|G49B|G50A|G50B|G51B|G51C|G52B|G52C|G57A|G58A|G59
+Lone_parents,Family Composition,G45A|G45B
+Level_of_education_inadequately_described,Education,G46A|G46B|G49A|G49B|G49C
+Level_of_education_not_stated,Education,G46A|G46B|G49A|G49B|G49C
+Natural_and_physical_sciences,Field of Study,G47A|G47B|G48A|G48B
+Information_technology,Field of Study,G47A|G47B|G48A|G48B
+Engineering_and_related_technologies,Field of Study,G47A|G47B|G48A|G48B
+Architecture_and_building,Field of Study,G47A|G47B|G48A|G48B
+Agriculture_environmental_and_related_studies,Field of Study,G47A|G47B|G48A|G48B
+Health,Field of Study,G47A|G47B|G48A|G48B
+Education,Field of Study,G47A|G47B|G48A|G48B
+Management_and_commerce,Field of Study,G47A|G47B|G48A|G48B
+Society_and_culture,Field of Study,G47A|G47B|G48A|G48B
+Creative_arts,Field of Study,G47A|G47B|G48A|G48B
+Food_hospitality_and_personal_services,Field of Study,G47A|G47B|G48A|G48B|G48C
+Mixed_field_programmes,Field of Study,G47A|G47B|G48A|G48B|G48C
+Field_of_study_inadequately_described,Field of Study,G47A|G47B|G48A|G48B|G48C
+Field_of_study_not_stated,Field of Study,G47A|G47B|G48A|G48B|G48C
+Occupation_managers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_professionals,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_technicians_and_trades_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_community_and_personal_service_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_clerical_and_administrative_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_sales_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_machinery_operators_and_drivers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_labourers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Occupation_inadequately_described,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B
+Postgraduate_degree_level_nfd,Education,G49A|G49B
+Doctoral_degree_level,Education,G49A|G49B
+Master_degree_level,Education,G49A|G49B
+Graduate_diploma_and_graduate_certificate_level_nfd,Education,G49A|G49B
+Graduate_diploma_and_graduate_certificate_level_graduate_diploma_level,Education,G49A|G49B
+Graduate_certificate_level,Education,G40|G46A|G46B|G49A|G49B|G50A|G50B|G50C
+Advanced_diploma_and_diploma_level_nfd,Education,G49A|G49B
+Advanced_diploma_and_diploma_level_advanced_diploma_and_associate_degree_level,Education,G49A|G49B
+Advanced_diploma_and_diploma_level_diploma_level,Education,G49A|G49B|G49C
+Advanced_diploma_and_diploma_advanced_diploma_and_associate_degree_level,Education,G49C
+Agriculture_forestry_and_fishing,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Inadequately_described_not_stated,Education,G50A|G50B|G50C
+Mining,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Manufacturing,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Electricity_gas_water_and_waste_services,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Construction,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Wholesale_trade,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Retail_trade,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Accommodation_and_food_services,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Transport_postal_and_warehousing,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Information_media_and_telecommunications,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Financial_and_insurance_services,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Rental_hiring_and_real_estate_services,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Professional_scientific_and_technical_services,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Administrative_and_support_services,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Public_administration_and_safety,Industry,G50A|G50B|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Education_and_training,Industry,G50A|G50B|G50C|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Health_care_and_social_assistance,Industry,G50A|G50B|G50C|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Arts_and_recreation_services,Industry,G50A|G50B|G50C|G51A|G51B|G51C|G52A|G52B|G52C|G53A
+Other_services,Industry,G50A|G50B|G50C|G51A|G51B|G51D|G52A|G52B|G52D|G53A
+Inadequately_described_not_stated,Industry,G50A|G50B|G50C|G51A|G51C|G51D|G52A|G52C|G52D|G53A
+Number_of_hours_worked_none,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_1_15_hours,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_16_24_hours,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_25_34_hours,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_35_39_hours,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_40_hours,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_41_48_hours,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_49_hours_and_over,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Number_of_hours_worked_not_stated,Hours worked,G52A|G52B|G52C|G52D|G58A|G58B
+Both_employed,Labour Force Status,G54A|G54B|G55A|G55B
+Both_away_from_work,Labour Force Status,G54A|G54B|G55A|G55B
+One_employed_full_time,Labour Force Status,G54A|G54B|G55A|G55B
+Other_part_time,Labour Force Status,G54A|G54B|G55A|G55B
+Other_away_from_work,Labour Force Status,G54A|G54B|G55A|G55B
+Other_not_working,Labour Force Status,G54A|G54B|G55A|G55B
+One_employed_part_time,Labour Force Status,G54A|G54B|G55A|G55B
+One_away_from_work_other_not_working,Labour Force Status,G54A|G54B|G55A|G55B
+Both_not_working,Labour Force Status,G54A|G54B|G55A|G55B
+400_599,Income,G54A
+Managers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Professionals,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Technicians_and_trades_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Community_and_personal_service_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Clerical_and_administrative_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Sales_workers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Machinery_operators_and_drivers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Labourers,Occupation,G48A|G48B|G48C|G49A|G49B|G49C|G53A|G53B|G57A|G57B|G58A|G58B
+Inadequately_described_not_stated,Occupation,G58A|G58B
+One_method,Number of Commuting Methods,G59
+Train,Travel method type,G59
+Bus,Travel method type,G59
+Ferry,Travel method type,G59
+Tram_includes_light_rail,Travel method type,G59
+Taxi,Travel method type,G59
+Car_as_driver,Travel method type,G59
+Car_as_passenger,Travel method type,G59
+Truck,Travel method type,G59
+Motorbike_scooter,Travel method type,G59
+Bicycle,Travel method type,G59
+Other,Travel method type,G59
+Walked_only,Travel method type,G59
+Total_one_method,Total,G59
+Two_methods,Number of Commuting Methods,G59
+Train_and_bus,Travel method type,G59
+Train_and_ferry,Travel method type,G59
+Train_and_tram_includes_light_rail,Travel method type,G59
+Train_and_car_as_driver,Travel method type,G59
+Train_and_car_as_passenger,Travel method type,G59
+Train_and_other,Travel method type,G59
+Train_and_total,Travel method type,G59
+Bus_and_ferry,Travel method type,G59
+Bus_and_tram_includes_light_rail,Travel method type,G59
+Bus_and_car_as_driver,Travel method type,G59
+Bus_and_car_as_passenger,Travel method type,G59
+Bus_and_other,Travel method type,G59
+Bus_and_total,Travel method type,G59
+Other_two_methods,Travel method type,G59
+Total_two_methods,Total,G59
+Three_methods,Number of Commuting Methods,G59
+Train_and_two_other_methods,Travel method type,G59
+Bus_and_two_other_methods_excludes_train,Travel method type,G59
+Other_three_methods,Travel method type,G59
+Total_three_methods,Total,G59
+Worked_at_home,Number of Commuting Methods,G59
+Did_not_go_to_work,Number of Commuting Methods,G59
+Method_of_travel_to_work_not_stated,Number of Commuting Methods,G59

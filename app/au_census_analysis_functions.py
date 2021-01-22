@@ -70,7 +70,7 @@ def load_table_refined(table_ref, category_list, statistical_area_code='SA3', dr
     
     INPUTS
     table_ref: STRING - the ABS Census Datapack table to draw information from (G01-G59)
-    category_list: LIST of STRING objects - Cetegorical informatio to slice/aggregate information from (e.g. Age)
+    category_list: LIST of STRING objects - Cetegorical information to slice/aggregate information from (e.g. Age)
     statistical_area_code: STRING - the ABS statistical area level of detail required (SA1-SA3)
     drop_zero_area: BOOLEAN - an option to remove "non-geographical" area data points such as "no fixed address" or "migratory"
     '''
@@ -115,11 +115,11 @@ def load_table_refined(table_ref, category_list, statistical_area_code='SA3', dr
     meta_merge_ref = meta_df_select[['Short','Table name','Measures','Categories']]
     df_data_t = df_data_t.merge(meta_merge_ref, on='Short')
     
-    # from the "Categories" field, you should be able to split an individual entry by the "|" character
-    # to give the index of the measure you are interested in grouping by
-    # create a new column based on splitting the "Measure" field and selecting the value of this index/indices
+    # from the "Categories" field, split an individual entry by the "|" character
+    # to give the index of the measure you are interested in grouping by.
+    # Create a new column based on splitting the "Measure" field and selecting the value of this index/indices.
     # Merge above with the table name to form "[Table_Name]|[groupby_value]" to have a good naming convention
-    # eg "Method_of_Travel_to_Work_by_Sex|Three_methods_Females"
+    # e.g. "Method_of_Travel_to_Work_by_Sex|Three_methods_Females".
     df_data_t[index_reference] = df_data_t.apply(lambda x: refine_measure_name(x['Table name'], 
                                                                                x['Measures'], 
                                                                                x['Categories'], 

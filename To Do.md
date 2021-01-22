@@ -1,0 +1,52 @@
+# Things to do - immediate
+- [x] Complete the method for dynamic "measure" selection for the Y-axis. See if you can just load the first 100 features or something?
+- [x] Change dropdown types for all areas to be checkboxes after one of the dropdowns has a field selected (if none have a field selected leave Category/Measure fields as "type"able selectors) [can't quite do since Dash does not support this kind of dropdown, would need to build from scratch in React]
+- [x] Fix the dropdowns css so there is adequate paragraph padding for items which wrap over two lines
+- [x] Change measure dropdown to have labels sans underscores
+- [x] Fix error where measure selection isn't loading with a table selected but no category
+- [x] Update return_categories function to dynamically filter as well
+- [x] Update measure dropdown to grey out when selections are >1000, changing the placeholder to be 'Filter further to select the measure you want to predict'
+- [x] Create dropdown to allow for filtering by specific category level values (e.g. with "Sex" specified, filter for only "Female")
+- [x] ^ create category:values reference table to draw from in the above method
+- [x] ^ update measure dropdown function to incorporate this
+- [x] update the x dropdown sections to incorporate all the functions built for dynamic y dropdowns
+- [x] x dropdowns breaking (showing no options?!) after selecting a table
+- [x] sort the results for the category fields dropdown options
+- [x] Fix #N/As in metadata_w_category_values
+- [x] ^ check new category values are in the category lookup table [year of arrival + proficiency in spoken english relevant columns]
+- [x] feed the table dropdown filter into the category fields selection
+- [x] fix the metaclasses issue with category of "Ancestry"/"Language spoken at x" being inconsistent [Table G13]
+- [x] ^ update category lookup table accordingly
+- [x] feed the category fields selection into the table dropdown filter as well (only relevant for selection of y)
+- [ ] Add filter and radio button to allow selective (or exclusionary) measure filtering for x variables
+- [ ] add text output showing x and y variables names
+- [ ] Rewrite table and category dropdown options functions to reference the Category_Measure_reference.csv instead (faster)
+- [ ] Per Dash website, pandas dataframes are expensive to load every time it is called in an app - better to have loaded initially and then filter - explore this behaviour
+- [ ] ^ easy enough to do with the Measures selection features, just need to move the df to be in the app and out of the module instead passing in as an input into the functions
+- [ ] ^ Trickier with the actual table loading, but  doable by just loading an empty df in the first instance, evaluating callbacks based on the empty state and then loading it properly after using a "submit" button
+- [ ] need to update table load function to filter these category level values appropriately
+- [ ] Change the "remove duplicates" function in feature selection to base based on removing duplicates from the feature/category columns rather than the raw data itself, that way the false noise doesn't impede duplicate removal
+- [ ] Move app functions to their own module
+- [ ] More to come...
+
+## Things to do - medium term
+- [ ] Four chart output like in here: https://dash.plotly.com/interactive-graphing
+- [ ] Figure out which charts I want... top-n effect size (use this as filter), effect direction, direct plot of correlation, plot of model accuracy
+- [ ] make the differences in filtering for x and y variables obvious for users in the UI somehow (refining down to 1 vs trying to capture a batch)
+- [ ] Data exploration charts... Bins, Top(Bottom)-n regions for selected metric, Gini coefficients of metrics 
+
+## Things to do - long term challenges
+- GIS charts
+- Dark/light mode css
+- pre-trained models
+- model selections (RF vs naive bayes vs SVM vs [need to re-read up on literature])
+- 2012 census data
+- older data (2008?) into data exploration (trend charts, bride charts with movements in sub regions, etc.)
+- older data comparisons between trained models (what would happen if 2016 predicted on 2012 data, what are the biggest shifts in feature importance, what are the most important features that changed the least)
+- ^ use a subset of the other year's data as the "test" set for grid search
+- build engineered features based on region information (e.g. population density to get urban/suburban/regional/rural, slider filters for population density, etc.)
+- Scrape non-census ABS by region data and incorporate
+- Have charts exportable as direct html code? How to make the interactive ones embeddable in e.g. Medium...
+- Make the dropdowns paragraph padding dynamic based on maximum string length
+- Make the color coding of the x measures selection tied to inclusive (green) or exclusive (red)
+- more to come...

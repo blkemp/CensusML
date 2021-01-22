@@ -1,0 +1,111 @@
+DataPack file,Table name,Table population
+G01,Selected Person Characteristics by Sex,Persons
+G02,Selected Medians and Averages,0
+G03,Place of Usual Residence on Census Night by Age,Persons
+G04A,Age by Sex,Persons
+G04B,Age by Sex,Persons
+G05,Registered Marital Status by Age by Sex,Persons aged 15 years and over 
+G06,Social Marital Status by Age by Sex,Persons aged 15 years and over 
+G07,Indigenous Status by Age by Sex ,Persons
+G08,Ancestry by Country of Birth of Parents,Responses and persons 
+G09A,Country of Birth of Person by Age by Sex,Persons
+G09B,Country of Birth of Person by Age by Sex,Persons
+G09C,Country of Birth of Person by Age by Sex,Persons
+G09D,Country of Birth of Person by Age by Sex,Persons
+G09E,Country of Birth of Person by Age by Sex,Persons
+G09F,Country of Birth of Person by Age by Sex,Persons
+G09G,Country of Birth of Person by Age by Sex,Persons
+G09H,Country of Birth of Person by Age by Sex,Persons
+G10A,Country of Birth of Person by Year of Arrival in Australia,Persons born overseas
+G10B,Country of Birth of Person by Year of Arrival in Australia,Persons born overseas
+G10C,Country of Birth of Person by Year of Arrival in Australia,Persons born overseas
+G11A,Proficiency in Spoken English/Language by Year of Arrival in Australia by Age,Persons born overseas
+G11B,Proficiency in Spoken English/Language by Year of Arrival in Australia by Age,Persons born overseas
+G11C,Proficiency in Spoken English/Language by Year of Arrival in Australia by Age,Persons born overseas
+G11D,Proficiency in Spoken English/Language by Year of Arrival in Australia by Age,Persons born overseas
+G12A,Proficiency in Spoken English/Language of Parents by Age of Dependent Children,Dependent children in couple families
+G12B,Proficiency in Spoken English/Language of Parents by Age of Dependent Children,Dependent children in couple families
+G13A,Language Spoken at Home by Proficiency in Spoken English/Language by Sex,Persons
+G13B,Language Spoken at Home by Proficiency in Spoken English/Language by Sex,Persons
+G13C,Language Spoken at Home by Proficiency in Spoken English/Language by Sex,Persons
+G13D,Language Spoken at Home by Proficiency in Spoken English/Language by Sex,Persons
+G14,Religious Affiliation by Sex,Persons
+G15,Type of Educational Institution Attending (Full/Part-Time Student Status by Age) by Sex,Persons attending an educational institution 
+G16A,Highest Year of School Completed by Age by Sex,Persons aged 15 years and over who are no longer attending primary or secondary school.
+G16B,Highest Year of School Completed by Age by Sex,Persons aged 15 years and over who are no longer attending primary or secondary school.
+G17A,Total Personal Income (Weekly) by Age by Sex,Persons aged 15 years and over 
+G17B,Total Personal Income (Weekly) by Age by Sex,Persons aged 15 years and over 
+G17C,Total Personal Income (Weekly) by Age by Sex,Persons aged 15 years and over 
+G18,Core Activity Need for Assistance by Age by Sex,Persons 
+G19,Voluntary Work for an Organisation or Group by Age by Sex ,Persons aged 15 years and over 
+G20A,Unpaid Domestic Work:  Number of House by Age by Sex ,Persons aged 15 years and over 
+G20B,Unpaid Domestic Work:  Number of House by Age by Sex ,Persons aged 15 years and over 
+G21,Unpaid Assistance to a Person with a Disability by Age by Sex,Persons aged 15 years and over 
+G22A,Unpaid Child Care by Age by Sex,Persons aged 15 years and over 
+G22B,Unpaid Child Care by Age by Sex,Persons aged 15 years and over 
+G23A,Relationship in Household by Age by Sex,Persons in occupied private dwellings
+G23B,Relationship in Household by Age by Sex,Persons in occupied private dwellings
+G24,Number of Children Ever Born by Age of Parent,Females aged 15 years and over
+G25,Family Composition,Families and persons in families in occupied private dwellings
+G26,Family Composition and Country of Birth of Parents by Age of Dependent Children,Dependent children 
+G27,Family Blending,Couple families with children
+G28,Total Family Income (Weekly) by Family Composition,Families in family households
+G29,Total Household Income (Weekly) by Household Composition,Occupied private dwellings
+G30,Number of Motor Vehicles by Dwellings,Occupied private dwellings
+G31,Household Composition by Number of Persons Usually Resident,Occupied private dwellings
+G32,Dwelling Structure,Private dwellings and persons in occupied private dwellings
+G33,Tenure Type and Landlord Type by Dwelling Structure,Occupied private dwellings
+G34,Mortgage Repayment (Monthly) by Dwelling Structure,Occupied private dwellings being purchased
+G35,Mortgage Repayment (Monthly) by Family Composition,Families in occupied private dwellings being purchased
+G36,Rent (Weekly) by Landlord Type,Occupied private dwellings being rented
+G37,Dwelling Internet Connection by Dwelling Structure,Occupied private dwellings
+G38,Dwelling Structure by Number of Bedrooms,Occupied private dwellings
+G39,Dwelling Structure by Household Composition and Family Composition,Occupied private dwellings
+G40,"Selected Labour Force, Education and Migration Characteristics by Sex",Persons
+G41,Place of Usual Residence 1 Year Ago by Sex,Persons 1 year and over
+G42,Place of Usual Residence 5 Years Ago by Sex,Persons 5 years and over
+G43A,Labour Force Status by Age by Sex,Persons aged 15 years and over 
+G43B,Labour Force Status by Age by Sex,Persons aged 15 years and over 
+G44A,Labour Force Status by Sex of Parents by Age of Dependent Children for One Parent Families,Dependent children in one parent familes
+G44B,Labour Force Status by Sex of Parents by Age of Dependent Children for One Parent Families,Dependent children in one parent familes
+G44C,Labour Force Status by Sex of Parents by Age of Dependent Children for One Parent Families,Dependent children in one parent familes
+G44D,Labour Force Status by Sex of Parents by Age of Dependent Children for One Parent Families,Dependent children in one parent familes
+G44E,Labour Force Status by Sex of Parents by Age of Dependent Children for One Parent Families,Dependent children in one parent familes
+G44F,Labour Force Status by Sex of Parents by Age of Dependent Children for One Parent Families,Dependent children in one parent familes
+G45A,Labour Force Status by Sex of Parents by Age of Dependent Children for Couple Families,Dependent children in couple familes
+G45B,Labour Force Status by Sex of Parents by Age of Dependent Children for Couple Families,Dependent children in couple familes
+G46A,Non-School Qualification:  Level of Education by Age by Sex,Persons aged 15 years and over with a qualification
+G46B,Non-School Qualification:  Level of Education by Age by Sex,Persons aged 15 years and over with a qualification
+G47A,Non-School Qualification:  Field of Study by Age by Sex,Persons aged 15 years and over with a qualification
+G47B,Non-School Qualification:  Field of Study by Age by Sex,Persons aged 15 years and over with a qualification
+G47C,Non-School Qualification:  Field of Study by Age by Sex,Persons aged 15 years and over with a qualification
+G48A,Non-School Qualification:  Field of Study by Occupation by Sex,Persons aged 15 years and over with a qualification
+G48B,Non-School Qualification:  Field of Study by Occupation by Sex,Persons aged 15 years and over with a qualification
+G48C,Non-School Qualification:  Field of Study by Occupation by Sex,Persons aged 15 years and over with a qualification
+G49A,Non-School Qualification:  Level of Education by Occupation  by Sex,Employed persons aged 15 years and over with a qualification
+G49B,Non-School Qualification:  Level of Education by Occupation  by Sex,Employed persons aged 15 years and over with a qualification
+G49C,Non-School Qualification:  Level of Education by Occupation  by Sex,Employed persons aged 15 years and over with a qualification
+G50A,Non-School Qualification:  Level of Education by Industry of Employment by Sex,Employed persons aged 15 years and over with a qualification
+G50B,Non-School Qualification:  Level of Education by Industry of Employment by Sex,Employed persons aged 15 years and over with a qualification
+G50C,Non-School Qualification:  Level of Education by Industry of Employment by Sex,Employed persons aged 15 years and over with a qualification
+G51A,Industry of Employment by Age by Sex,Employed persons aged 15 years and over 
+G51B,Industry of Employment by Age by Sex,Employed persons aged 15 years and over 
+G51C,Industry of Employment by Age by Sex,Employed persons aged 15 years and over 
+G51D,Industry of Employment by Age by Sex,Employed persons aged 15 years and over 
+G52A,Industry of Employment by Hours Worked by Sex,Employed persons aged 15 years and over 
+G52B,Industry of Employment by Hours Worked by Sex,Employed persons aged 15 years and over 
+G52C,Industry of Employment by Hours Worked by Sex,Employed persons aged 15 years and over 
+G52D,Industry of Employment by Hours Worked by Sex,Employed persons aged 15 years and over 
+G53A,Industry of Employment by Occupation,Employed persons aged 15 years and over 
+G53B,Industry of Employment by Occupation,Employed persons aged 15 years and over 
+G54A,Total Family Income (Weekly) by Labour Force Status of Partners for Couple Families with No Children,Couple families with no children
+G54B,Total Family Income (Weekly) by Labour Force Status of Partners for Couple Families with No Children,Couple families with no children
+G55A,Total Family Income (Weekly) by Labour Force Status of Parents/Partners for Couple Families with Children,Couple families with children
+G55B,Total Family Income (Weekly) by Labour Force Status of Parents/Partners for Couple Families with Children,Couple families with children
+G56A,Total Family Income (Weekly) by Labour Force Status of Parent for One Parent Families,One parent families
+G56B,Total Family Income (Weekly) by Labour Force Status of Parent for One Parent Families,One parent families
+G57A,Occupation by Age by Sex,Employed persons aged 15 years and over 
+G57B,Occupation by Age by Sex,Employed persons aged 15 years and over 
+G58A,Occupation by Hours Worked by Sex,Employed persons aged 15 years and over 
+G58B,Occupation by Hours Worked by Sex,Employed persons aged 15 years and over 
+G59,Method of Travel to Work by Sex,Employed persons aged 15 years and over 
